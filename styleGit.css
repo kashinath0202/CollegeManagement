@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: 'Frank Ruhl Libre', serif;
+}
+
+.section {
+    background-color: rgb(215, 226, 226);
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    margin: 20px;
+    height: 420px;
+
+}
+
+.section img {
+    height: 300px;
+    margin-top: 50px;
+}
+
+.section h1 {
+    margin-left: 100px;
+    color: rgb(238, 76, 12);
+}
+
+.section h3 {
+    margin-left: 200px;
+    color: rgb(206, 96, 52);
+    font-style: italic;
+}
+
+.section p {
+    color: rgb(78, 35, 30);
+    margin-right: 15px;
+    line-height: 30px;
+    text-indent: 50px;
+    word-spacing: 5px;
+}
